@@ -11,3 +11,5 @@ Nebenjob: Fitnesscoach
 * liebt Kaffee
 * macht gern Sport
 * geht gern shoppen
+
+> Laufen - heute ist es zu heiß!
